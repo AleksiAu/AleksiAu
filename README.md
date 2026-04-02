@@ -1,8 +1,8 @@
 # Hi, I'm Aleksi! 👋
 
-I'm a **Design Engineer** and **Energy Data Analyst** with an MSc in Electrical Engineering (Data Analytics minor). I work at the intersection of power systems and data — turning millions of hourly meter readings into insights that drive grid investment decisions.
+I'm an **Analyst** with an MSc in Electrical Engineering (Data Analytics minor). I work at the intersection of power systems, data, and markets — building forecasting tools and analytical pipelines that support trading decisions and portfolio optimization.
 
-Currently at **Nivos Verkot Oy**, where I build analytical tools for distribution network planning using Python, DuckDB, and geospatial methods.
+Currently at **Gasum Oy**, where I work in the Power Team on forecasting systems, market analysis, and Multi-Market Optimization (MMO) services in the Nordic electricity market.
 
 **👉 Check out my [Portfolio Guide](https://github.com/AleksiAu/Portfolio-Guide) for a summary of all projects.**
 
@@ -12,21 +12,20 @@ Currently at **Nivos Verkot Oy**, where I build analytical tools for distributio
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## ⚡ Domain
-
-Electricity markets · Distribution & HV network analysis · Load flow & voltage drop analysis · Reliability (SAIDI/SAIFI/CAIDI) · Reactive power · Scenario analysis (EVs, DERs, storage, data centers)
+![SQL](https://img.shields.io/badge/SQL-4479
 
 ## 📂 Featured Projects
+
+### ⚡ [2D Grid Flow Desktop](https://github.com/AleksiAu/grid-flow-desktop)
+**How do topology changes and load shifts propagate as power flows across the network?**
+Interactive PySide6 desktop app for visualising and editing DC power flow. IEC-inspired node symbols, live B-θ nodal solver, separator toggling, and connection-point capacity dispatch. Modular architecture with Qt signals for clean layer separation.
 
 ### 🗺️ [Spatial Grid Analysis](https://github.com/AleksiAu/spatial-grid-analysis)
 **How is electricity demand distributed across the network area?**
